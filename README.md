@@ -51,4 +51,9 @@ Modern financial fraud is decentralized and highly adaptive. Relying on disconne
 *   **Preventative Control Transition:** Outlined a functional blueprint to transition from rigid, single-rule transaction limits to a composite statistical fraud risk score (evaluating amount Z-scores, hour weights, age segments, and chargeback metrics simultaneously), drastically maximizing detection accuracy while minimizing false-positive customer impact.
 
 ## 7. Dashboard Demo:
+
+**[Click Here to Interact with the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODZhOTk5Y2MtZDk5NC00NzY1LWJiYjgtMjc0ZGMwZGI0ZjM3IiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9)**
+
+(If the live link is unavailable, view the automated system demonstration below)
+
 ![Project Demo](https://github.com/chinmai-budati/Fintrust-Banking-Fraud-Detection/blob/main/Demo.gif)
