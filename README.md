@@ -52,7 +52,7 @@ Modern financial fraud is decentralized and highly adaptive. Relying on disconne
 
 ## 7. Dashboard Demo:
 
-**[Click Here to Interact with the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODZhOTk5Y2MtZDk5NC00NzY1LWJiYjgtMjc0ZGMwZGI0ZjM3IiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9)**
+**[Click Here to Interact with the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgwZmMzMTQtMmJhMy00ZTllLWEyZjQtMjI1MDE0YjI3ZTYwIiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9)**
 
 (If the live link is unavailable, view the automated system demonstration below)
 
