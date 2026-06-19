@@ -2,6 +2,10 @@
 
 An automated, cross-functional data pipeline and advanced fraud analytics initiative that processes over 150,000 synthetic banking records across ten distinct datasets. It features an interactive Power BI dashboard to expose critical security vulnerabilities and implements the foundational logic for a rule-based statistical risk score to proactively mitigate financial leakage.
 
+### Interactive Case Study
+Read the full project breakdown and strategic business impacts: 
+**[View the Full Case Study on Notion](https://app.notion.com/p/Case-Study-Architecting-a-Risk-Intelligence-System-to-Mitigate-233M-in-Banking-Fraud-Liability-3837a45bec88805cb53ed205df4a3671)**
+
 ## 1. Project Overview
 This project builds a robust data engineering and fraud analytics solution for FinTrust National Bank. By extracting raw, messy synthetic data from a relational database, executing an objective data cleaning pipeline in Python, and performing advanced Exploratory Data Analysis (EDA), the project uncovers an 8.1% baseline fraud rate. The clean data feeds directly into a multi-page Power BI dashboard, translating transactional anomalies into actionable operational defense strategies for risk management teams.
 
